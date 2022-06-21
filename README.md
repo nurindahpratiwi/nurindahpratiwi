@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wi</h1>
 <h3 align="center">Been interesting with AI/ML since the name is data mining. A freelancer on CodePolitan as a mentor.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurindahpratiwi" alt="nurindahpratiwi" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nurindahpratiwi)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently hands-on **IndoSROIE**
 
