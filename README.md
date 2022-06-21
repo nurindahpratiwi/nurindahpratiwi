@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wi</h1>
 <h3 align="center">Been interesting with AI/ML since the name is data mining. A freelancer on CodePolitan as a mentor.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nurindahpratiwi)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=nurindahpratiwi)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 - 🔭 I’m currently hands-on **IndoSROIE**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **nurindahpratiwi@alumni.ui.ac.id**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
