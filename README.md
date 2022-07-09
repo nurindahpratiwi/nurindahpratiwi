@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wi</h1>
-<h3 align="center">Been interesting with AI/ML since the name is data mining. A freelancer on CodePolitan as a mentor.</h3>
+<h3 align="center">Been interesting with AI/ML since 2013. A freelancer on CodePolitan as a mentor.</h3>
 
 - 🔭 I’m currently making content for CodePolitan
 
