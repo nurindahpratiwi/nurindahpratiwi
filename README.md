@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wi</h1>
 <h3 align="center">Been interesting with AI/ML since the name is data mining. A freelancer on CodePolitan as a mentor.</h3>
 
-- 🔭 I’m currently hands-on **IndoSROIE**
+- 🔭 I’m currently making content for CodePolitan
 
 - 🌱 I’m currently learning **Transformer, BERT and other Machine Learning Algorithm that into account NLP**
 
